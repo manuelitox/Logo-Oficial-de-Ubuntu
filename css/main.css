@@ -1,0 +1,68 @@
+body {
+  font-size: 1em;
+}
+
+#circle_one {
+  margin: 160px 24px;	
+}
+
+#circle_two {
+  margin: 50px 239px;
+}
+
+#circle_three {
+  margin: 284px 239px;
+}
+
+#logo-background {
+  background: #f60;
+  border-radius: 200px;
+  height: 400px;
+  width: 400px;
+}
+
+#separation_one {
+  -moz-transform:rotate(150deg);
+  -o-transform:rotate(150deg);
+  -webkit-transform:rotate(150deg);
+  margin: -32px 29px; 
+}
+
+#separation_two {
+  -moz-transform:rotate(91deg);	
+  -o-transform:rotate(91deg);
+  -webkit-transform:rotate(91deg);
+  margin: 71px 169px;
+}
+
+#separation_three {
+  -moz-transform:rotate(30deg);	
+  -o-transform:rotate(30deg);	
+  -webkit-transform:rotate(30deg);
+  margin: -36px 24px;	
+}
+
+.circles {
+  background: #fff;
+  border: 10px solid #f60;
+  border-radius: 50px; 
+  height: 55px;
+  position: absolute;
+  width: 55px;
+}
+
+.rectangule {
+  background: #f60;
+  border: 38px solid #fff;
+  border-radius: 160px;
+  height: 160px;
+  margin: 86px 82px;
+  position: absolute;
+  width: 160px;
+}
+
+.separations {
+  background: #f60;
+  height: 50px;
+  width: 15px;
+}
