@@ -7,5 +7,4 @@ Logo oficial de Ubuntu elaborado con HTML y CSS.
 
 ## Licencia ##
 
-* Por: [Manuel González][0]
 * [Creative Commons][1] 
