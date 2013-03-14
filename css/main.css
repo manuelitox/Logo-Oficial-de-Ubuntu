@@ -2,40 +2,40 @@ body {
   font-size: 1em;
 }
 
-#circle_one {
+.circle_one {
   margin: 160px 24px;	
 }
 
-#circle_two {
+.circle_two {
   margin: 50px 239px;
 }
 
-#circle_three {
+.circle_three {
   margin: 284px 239px;
 }
 
-#logo-background {
+.logo-background {
   background: #f60;
   border-radius: 200px;
   height: 400px;
   width: 400px;
 }
 
-#separation_one {
+.separation_one {
   -moz-transform:rotate(150deg);
   -o-transform:rotate(150deg);
   -webkit-transform:rotate(150deg);
   margin: -32px 29px; 
 }
 
-#separation_two {
+.separation_two {
   -moz-transform:rotate(91deg);	
   -o-transform:rotate(91deg);
   -webkit-transform:rotate(91deg);
   margin: 71px 169px;
 }
 
-#separation_three {
+.separation_three {
   -moz-transform:rotate(30deg);	
   -o-transform:rotate(30deg);	
   -webkit-transform:rotate(30deg);
