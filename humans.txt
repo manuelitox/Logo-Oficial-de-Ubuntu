@@ -1,16 +1,16 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-          
 
 /* TEAM */
-                            
-De: Manuel González.
-Site: http://www.manuelitox.com
-Twitter: @manuelitox       
-Location: Caracas, Venezuela.
-          
+Developer: Manuel González
+Contact: manuel2788[at]gmail.com
+Twitter: @manuelitox
+From: Venezuela
 
 /* SITE */
-                            
-Last update: 2012/09/12                             
-Standards: HTML5, CSS3.    
+Doctype: HTML5
+IDE: Sublime Text 2
+
+# TECHNOLOGY COLOPHON
+
+HTML5, CSS3, SASS.
